@@ -1,0 +1,7 @@
+C:\CURSOS\C#\projetos\1047_TempoJogo\1047_TempoJogo\bin\Debug\1047_TempoJogo.exe.config
+C:\CURSOS\C#\projetos\1047_TempoJogo\1047_TempoJogo\bin\Debug\1047_TempoJogo.exe
+C:\CURSOS\C#\projetos\1047_TempoJogo\1047_TempoJogo\bin\Debug\1047_TempoJogo.pdb
+C:\CURSOS\C#\projetos\1047_TempoJogo\1047_TempoJogo\obj\Debug\1047_TempoJogo.csproj.AssemblyReference.cache
+C:\CURSOS\C#\projetos\1047_TempoJogo\1047_TempoJogo\obj\Debug\1047_TempoJogo.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\projetos\1047_TempoJogo\1047_TempoJogo\obj\Debug\1047_TempoJogo.exe
+C:\CURSOS\C#\projetos\1047_TempoJogo\1047_TempoJogo\obj\Debug\1047_TempoJogo.pdb
